@@ -374,4 +374,5 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 
-CONFLICT_LINE: branch2-3
+
+CONFLICT_LINE: resolved-final
