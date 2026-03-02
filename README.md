@@ -374,4 +374,4 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 
-CONFLICT_LINE: branch1-3
+CONFLICT_LINE: branch1-extra-1
